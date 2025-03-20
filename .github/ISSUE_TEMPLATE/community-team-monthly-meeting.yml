@@ -1,6 +1,6 @@
 name: Community Team Monthly Meeting
 description: Create and manage tasks for the community team monthly meeting
-title: "[Community Meeting] YYYY-MM"
+title: "[Community Meeting] MM-YYYY"
 labels: ["[Admin] Team Meeting"]
 assignees: []
 body:
